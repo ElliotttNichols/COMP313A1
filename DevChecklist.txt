@@ -1,0 +1,11 @@
+Done:
+  -HeightMap environment construction
+  -Gate asset created
+  -Custom textures with scaling applied
+
+To-do:
+  -Create random NPC spawner
+  -Pathfinding AI
+  -NPC interaction
+    -Shoot with gun to continue, build to textbox interaction (Fallout 3/ New Vegas style)
+  -Add whatever else you can until stuff is due
