@@ -2,10 +2,12 @@ Done:
   -HeightMap environment construction
   -Gate asset created
   -Custom textures with scaling applied
-
-To-do:
   -Create random NPC spawner
   -Pathfinding AI
   -NPC interaction
-    -Shoot with gun to continue, build to textbox interaction (Fallout 3/ New Vegas style)
-  -Add whatever else you can until stuff is due
+    -Shoot with gun to kill and score points (Placeholder feature)
+
+To-do:
+  - Set up game start and opening menu
+  - Set up game end condition (Too many Brian points?)
+  - Explain why the hell the gameplay loop is NOT killing NPC's when its all you can do
