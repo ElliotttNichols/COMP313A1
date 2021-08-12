@@ -6,8 +6,8 @@ Done:
   -Pathfinding AI
   -NPC interaction
     -Shoot with gun to kill and score points (Placeholder feature)
-
-To-do:
   - Set up game start and opening menu
   - Set up game end condition (Too many Brian points?)
+
+To-do:  
   - Explain why the hell the gameplay loop is NOT killing NPC's when its all you can do
